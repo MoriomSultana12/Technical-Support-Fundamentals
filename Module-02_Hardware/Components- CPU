@@ -1,0 +1,35 @@
+🧠 CPU (Central Processing Unit)
+📌 Overview
+The Central Processing Unit (CPU), often termed the "brain" of the computer, is responsible for executing instructions and processing data. 
+It performs calculations and operations that drive the functionality of the computer.​
+
+
+
+## 🔍 Key Functions of the CPU
+Fetch: Retrieves instructions from memory.
+Decode: Interprets the fetched instructions to determine required actions.
+Execute: Carries out the instructions using relevant components.​
+
+
+⚙️ Components of the CPU
+Arithmetic Logic Unit (ALU): Performs arithmetic and logical operations.
+Control Unit (CU): Directs operations within the CPU by interpreting instructions and initiating appropriate actions.
+Registers: Small storage locations within the CPU that hold data temporarily for quick access.​
+
+
+
+🚀 Performance Factors
+Clock Speed: Measured in GHz, indicating how many cycles per second the CPU can perform.
+Cores: Modern CPUs have multiple cores, allowing them to perform multiple tasks simultaneously.
+Cache Memory: Small-sized, high-speed memory within the CPU that stores frequently accessed data to speed up processes.​
+
+
+
+🧩 CPU and System Interaction
+The CPU communicates with other components via buses:​
+
+Data Bus: Transfers actual data.
+Address Bus: Carries information about where data should reside in memory.
+Control Bus: Transmits control signals to coordinate operations.​
+
+
