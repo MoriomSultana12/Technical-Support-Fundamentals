@@ -1,0 +1,54 @@
+** 📦 DATA STORAGE BASICS ** 
+
+The SMALLEST UNIT of data is a BIT — stores a 0 or 1 (binary digit).
+BYTE = 8 BITS — can store a letter, number, or symbol.
+KILOBYTE (KB) = 1,024 BYTES
+MEGABYTE (MB) = 1,024 KB
+GIGABYTE (GB) = 1,024 MB
+TERABYTE (TB) = 1,024 GB
+
+Example:
+A 500 GB hard drive can store around 165,000 music files (average file size: 3 MB).
+
+💽 STORAGE DEVICES
+All computer data is stored on hard drives. These are used for:
+Storing programs, files, pictures, music, etc.
+Always BACKUP important data to avoid loss from crashes.
+
+🌀 HARD DISK DRIVE (HDD)
+Uses spinning platters and mechanical arms to read/write data.
+Performance depends on RPM (Revolutions Per Minute).
+Common RPM: 5,400 or 7,200
+CHEAPER but has MOVING PARTS, so it’s more prone to damage.
+
+
+⚡ SOLID STATE DRIVE (SSD)
+Uses microchips — NO MOVING PARTS.
+Similar to how USB sticks store data.
+FASTER, SLIMMER, and LESS FRAGILE than HDDs.
+MORE EXPENSIVE, so you usually get less storage for the price.
+
+🔄 HYBRID DRIVES (SSHD)
+Mix of SSD + HDD.
+SSD used for system performance , HDD for basic storage.
+
+Balances speed and affordability.
+
+🔌 INTERFACES (CONNECTING DRIVES)
+ATA (Advanced Technology Attachment) — standard interface.
+SATA (Serial ATA) — common for both HDDs and SSDs:
+Hot-swappable: No need to turn off PC to add/remove drives.
+Faster and more efficient than older interfaces.
+
+NVMe (Non-Volatile Memory Express):
+Used with newer, high-speed SSDs.
+Doesn’t use cables — fits into an expansion slot.
+
+Offers higher data speeds and better performance than SATA.
+
+🧠 SUMMARY
+BITS → BYTES → KB → MB → GB → TB = units of data.
+HDD = CHEAPER, MORE FRAGILE, SLOWER
+SSD = FASTER, SAFER, EXPENSIVE
+SATA is standard; NVMe is fastest for modern SSDs.
+Always BACK UP DATA to avoid losing important files.
