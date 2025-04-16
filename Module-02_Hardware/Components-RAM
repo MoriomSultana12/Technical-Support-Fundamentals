@@ -1,0 +1,43 @@
+### 🖥️ Random Access Memory (RAM)
+📌 Overview
+Random Access Memory (RAM) is a type of computer memory that temporarily stores data and machine code currently being used. 
+It allows for quick read and write access to a storage medium that is faster than other types of storage 
+like hard drives or SSDs.
+
+
+### 🔑 Key Characteristics of RAM
+Volatile Memory: RAM loses its data when the computer is turned off.
+
+Temporary Storage: Holds data that the CPU needs quick access to while performing tasks.
+
+Speed: Significantly faster than permanent storage devices, facilitating efficient data retrieval and processing.
+
+
+### 🛠️ Role in System Performance
+Multitasking: Adequate RAM enables smooth operation of multiple applications simultaneously.
+
+System Responsiveness: More RAM can improve the speed and responsiveness of a system, 
+reducing reliance on slower disk-based virtual memory.
+
+
+
+### 🧩 Types of RAM
+Dynamic RAM (DRAM): Commonly used in personal computers; requires periodic refreshing to maintain data.
+
+Static RAM (SRAM): Faster and more expensive than DRAM; used for cache memory.
+
+
+
+### 🔄 RAM vs. Storage
+It's important to distinguish between RAM and permanent storage:
+
+RAM: Temporary, fast-access memory used for active tasks.
+
+Storage (HDD/SSD): Permanent storage for files and applications.
+
+
+### 📈 Upgrading RAM
+Increasing the amount of RAM can lead to performance improvements, 
+especially in systems that run memory-intensive applications or multitask heavily.
+However, there are limits based on the motherboard and operating system capabilities.
+
