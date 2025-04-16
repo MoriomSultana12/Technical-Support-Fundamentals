@@ -1,0 +1,56 @@
+🧠 Motherboard : 
+The motherboard is the main circuit board of a computer. 
+It connects and communicates with all the internal and external components, 
+powering and controlling the overall functionality of the system.
+
+🛠️ Key Functions
+Connects all components: CPU, RAM, storage, GPU, I/O devices, etc.
+Routes power: Distributes power from the Power Supply Unit (PSU).
+Facilitates communication: Between hardware components.
+Supports expansion: Allows upgrading through expansion slots.
+
+
+🧩 Important Components
+
+🔘 Chipset
+Controls communication between CPU, RAM, storage, and peripherals.
+Comprised of two main parts:
+Northbridge: Connects high-speed components (RAM, video cards).
+Southbridge: Manages I/O devices (hard drives, USB, etc).
+
+🔄 Note: In modern systems, the Northbridge is integrated into the CPU.
+
+
+
+⌨️ Peripherals
+External devices like keyboard, mouse, monitor, etc.
+Communicate with CPU via the chipset.
+
+
+🧱 Expansion Slots
+Allow users to upgrade hardware, like adding a new GPU or sound card.
+
+The standard interface is:
+PCI Express (PCIe): High-speed slot for expansion cards.
+Expansion cards are small circuit boards that fit into PCIe slots.
+
+📏 Form Factor
+Refers to the physical size and shape of the motherboard.
+
+Determines:
+What case and components are compatible.
+Number and type of expansion slots available.
+
+🔹 Common Types:
+ATX (Advanced Technology Extended) – Standard size for desktops.
+Mini ITX, Nano ITX, Pico ITX – Smaller variations for compact builds.
+Intel NUC – Uses very compact ITX variations.
+
+🧠 Why It Matters
+Understanding motherboard components helps with:
+Diagnosing hardware issues.
+Ensuring compatibility when replacing or upgrading parts.
+Selecting the right RAM, CPU socket, or graphics card.
+
+🧪 Real-world Example
+If a user is having video issues and you replace their graphics card, make sure the new card fits the motherboard and is compatible with the expansion slot and form factor.
