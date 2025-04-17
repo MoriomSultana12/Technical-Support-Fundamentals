@@ -1,0 +1,39 @@
+🧠 Simple Notes: BIOS, Drivers & Boot Process
+🔌 How Devices Talk to CPU
+Devices (keyboard, mouse) use drivers — special programs that help the CPU understand them.
+Without drivers, the CPU can’t use external devices.
+
+
+🖥️ What is BIOS?
+BIOS = Basic Input/Output System
+Starts the hardware and loads the operating system.
+Stored in ROM (not erased when power is off).
+
+
+
+🌐 UEFI ( Unified Extensible Firmware Interface )
+Modern version of BIOS.
+Faster, supports newer hardware.
+Most new computers use UEFI.
+
+
+🔁 POST (Power-On Self Test)
+Quick test when computer starts to check hardware.
+Beep codes tell if something's wrong:
+
+1 beep = OK
+2+ beeps = Problem
+Beep codes differ by computer brand.
+
+
+⚙️ BIOS/CMOS Settings
+CMOS chip stores settings like time, date, and boot order.
+Access BIOS/CMOS during startup (press F2, Del, etc.).
+You can change which device to boot from (USB, CD, etc.).
+
+
+💻 Reimaging a Computer
+
+Reimaging = Erase everything & reinstall OS.
+Usually done from USB, CD, or network.
+Change boot settings in BIOS to start from that device.
